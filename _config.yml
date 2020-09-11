@@ -12,7 +12,7 @@ github_repo: "https://github.com/liutao199527/liutao199527.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/39ed7958638480c8a777f38599ef4ed.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/39ed7958638480c8a777f38599ef4ed.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
